@@ -16,6 +16,6 @@ Feature: Checkout Page
 
     Examples:
       | email                     | password           | keyword      |
-      | muhammadajis445@gmail.com | Az!s1234 | payung |
+      | muhammadajis445@gmail.com | Az!s1234           | payung       |
       | yourvalidemail2@email.com | yourvalidpassword2 | yourkeyword2 |
       | yourvalidemail3@email.com | yourvalidpassword3 | yourkeyword3 |

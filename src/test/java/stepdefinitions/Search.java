@@ -28,6 +28,7 @@ public class Search {
     }
     @When("user click on 1st list")
     public void user_click_on_1st_list(){
+        homepage.blockNotification();
         homepage.searchlist();
 
     }
